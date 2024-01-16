@@ -39,7 +39,7 @@ namespace GestionNominaV1
             }
         }
 
-        public sting ApellidosEmpleado 
+        public string ApellidosEmpleado 
         {
             get 
             {
