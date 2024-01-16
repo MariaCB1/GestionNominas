@@ -38,5 +38,17 @@ namespace GestionNominaV1
                 _nombre = value;
             }
         }
+
+        public sting ApellidosEmpleado 
+        {
+            get 
+            {
+                return _apellidos;
+            }
+            set
+            {
+                _apellidos = value;
+            }
+        }
     }
 }
